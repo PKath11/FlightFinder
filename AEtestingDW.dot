@@ -1,0 +1,3 @@
+digragh {
+	Chicago -> Miami [weight=7]
+}

@@ -1,0 +1,16 @@
+digraph G {
+
+  Chicago -> Miami [weight=7]
+  Chicago -> New_York [weight=6]
+  New_York -> Miami [weight=4]
+  New_York -> Los_Angeles [weight=10]
+  Miami -> Atlanta [weight=3]
+  Miami -> Los_Angeles [weight=9]
+  Atlanta -> Los_Angeles [weight=5]
+  Atlanta -> New_York [weight=6]
+  Los_Angeles -> Chicago [weight=8]
+
+
+
+
+}
